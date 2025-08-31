@@ -54,16 +54,15 @@ AI-Chatbot-n8n/
 
 ### 🔹 Chatbot Workflow in n8n
 
-![1756645470803](image/README/1756645470803.png)
+![1756645787459](image/README/1756645787459.png)
 
 ### 🔹 Web Chat Interface
 
-![1756645528962](image/README/1756645528962.png)
-
+![1756645796880](image/README/1756645796880.png)
 
 ### 🔹 Planner Integration
 
-![1756645556481](image/README/1756645556481.png)
+![1756645813615](image/README/1756645813615.png)
 
 ---
 
